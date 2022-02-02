@@ -1,0 +1,38 @@
+p {
+    font-family: 'vSHexagonicaMedium';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.tab {
+    margin: auto;
+}
+
+td {
+    height: 400px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 10px 10px;
+}
+
+#one {
+    background-color: #011627;
+}
+
+#two {
+    background-color: #fdfffc;
+}
+
+#three {
+    background-color: #2ec4b6;
+}
+
+#four {
+    background-color: #e71d36
+}
+
+#five {
+    background-color: #ff9f1c;
+}
